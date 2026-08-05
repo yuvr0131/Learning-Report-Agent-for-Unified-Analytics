@@ -1,0 +1,1 @@
+generate all employees who has completed course Azure Data Factory Basics Lab 1 and generate all those employee details like manager,etc , all 5 kpi and also show in bar graph who are eligible for voucher
