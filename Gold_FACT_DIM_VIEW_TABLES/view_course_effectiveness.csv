@@ -1,0 +1,49 @@
+course_id,course_name,category,vendor,delivery_mode,duration_hours,difficulty_level,total_learners,total_completed,completion_rate_pct,total_passed,pass_rate_pct,avg_score_passed,avg_feedback_rating,avg_days_to_complete,avg_total_learning_days,total_trainers,_view_refreshed_ts
+C1021_DB,Delta Lake Core Concepts Chapter 1,Data,Databricks,Self-paced,3,Beginner,28,40,100,40,100,84.45,4.29,23.15,340.85,1,2026-06-10T12:53:30.404Z
+C1172_MS,Azure Data Factory Basics Lab 2,Data,Microsoft,Instructor-led,10,Beginner,4,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1003_DB,Databricks Lakehouse Fundamentals Part 3,Data,Databricks,Self-paced,2.5,Beginner,10,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1022_DB,Delta Lake Core Concepts Chapter 2,Data,Databricks,Self-paced,3,Beginner,9,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1162_MS,Introduction To Azure Synapse Module 2,Data,Microsoft,Instructor-led,12,Beginner,6,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1163_MS,Introduction To Azure Synapse Module 3,Data,Microsoft,Instructor-led,12,Beginner,5,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1403_CR,Cloud Native Architecture Part 3,Digital,Coursera,Self-paced,25,Advanced,9,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1251_MS,Azure Openai Integration Part 1,AI,Microsoft,Instructor-led,30,Advanced,29,44,100,42,95.45,87.24,4.68,23.3,314.34,1,2026-06-10T12:53:30.404Z
+C1421_CR,Cybersecurity Advanced Practices Module 1,Digital,Coursera,Self-paced,22,Advanced,2,4,100,4,100,85,4.3,25.5,100.5,1,2026-06-10T12:53:30.404Z
+C1303_CR,Healthcare Analytics Foundations Part 3,Domain,Coursera,Self-paced,5.5,Beginner,9,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1433_CR,Enterprise Agile Frameworks Chapter 3,Digital,Coursera,Self-paced,20,Advanced,9,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1023_DB,Delta Lake Core Concepts Chapter 3,Data,Databricks,Self-paced,3,Beginner,8,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1201_MS,Azure Cloud Administration Part 1,Digital,Microsoft,Self-paced,20,Intermediate,29,44,100,44,100,86.39,4.22,23.55,317.09,2,2026-06-10T12:53:30.404Z
+C1203_MS,Azure Cloud Administration Part 3,Digital,Microsoft,Self-paced,20,Intermediate,9,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1011_DB,Introduction To Pyspark Module 1,Data,Databricks,Self-paced,4,Beginner,15,21,100,21,100,86.38,4.16,22.19,312.52,1,2026-06-10T12:53:30.404Z
+C1001_DB,Databricks Lakehouse Fundamentals Part 1,Data,Databricks,Self-paced,2.5,Beginner,30,46,100,46,100,85.28,4.42,21.65,312.43,1,2026-06-10T12:53:30.404Z
+C1401_CR,Cloud Native Architecture Part 1,Digital,Coursera,Self-paced,25,Advanced,29,44,100,44,100,85.09,3.97,22.86,319.41,1,2026-06-10T12:53:30.404Z
+C1161_MS,Introduction To Azure Synapse Module 1,Data,Microsoft,Instructor-led,12,Beginner,17,25,100,25,100,85.88,4.2,23.4,294.32,1,2026-06-10T12:53:30.404Z
+C1301_CR,Healthcare Analytics Foundations Part 1,Domain,Coursera,Self-paced,5.5,Beginner,29,43,100,43,100,86.7,4.21,22.53,325.51,1,2026-06-10T12:53:30.404Z
+C1151_MS,Azure Data Fundamentals Dp-900 Part 1,Data,Microsoft,Instructor-led,8,Beginner,30,46,100,44,95.65,87.7,4.2,22.87,320.39,1,2026-06-10T12:53:30.404Z
+C1431_CR,Enterprise Agile Frameworks Chapter 1,Digital,Coursera,Self-paced,20,Advanced,29,44,100,44,100,86.68,4.57,22.66,321.59,1,2026-06-10T12:53:30.404Z
+C1041_DB,Data Engineering On Databricks Primer 1,Data,Databricks,Self-paced,5,Beginner,2,4,100,4,100,83.5,4.2,23,92,1,2026-06-10T12:53:30.404Z
+C1153_MS,Azure Data Fundamentals Dp-900 Part 3,Data,Microsoft,Instructor-led,8,Beginner,9,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1002_DB,Databricks Lakehouse Fundamentals Part 2,Data,Databricks,Self-paced,2.5,Beginner,13,3,21.43,3,21.43,92,4.2,9,13,1,2026-06-10T12:53:30.404Z
+C1012_DB,Introduction To Pyspark Module 2,Data,Databricks,Self-paced,4,Beginner,5,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1031_DB,Databricks Sql For Beginners Lab 1,Data,Databricks,Self-paced,2,Beginner,14,20,100,20,100,89.2,4.28,22.7,342.95,1,2026-06-10T12:53:30.404Z
+C1253_MS,Azure Openai Integration Part 3,AI,Microsoft,Instructor-led,30,Advanced,9,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1402_CR,Cloud Native Architecture Part 2,Digital,Coursera,Self-paced,25,Advanced,10,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1171_MS,Azure Data Factory Basics Lab 1,Data,Microsoft,Instructor-led,10,Beginner,14,20,100,20,100,87.4,4.16,23.6,337.25,1,2026-06-10T12:53:30.404Z
+C1202_MS,Azure Cloud Administration Part 2,Digital,Microsoft,Self-paced,20,Intermediate,10,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1032_DB,Databricks Sql For Beginners Lab 2,Data,Databricks,Self-paced,2,Beginner,5,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1191_MS,Power Bi Integration With Azure Chapter 1,Data,Microsoft,Instructor-led,16,Beginner,1,2,100,2,100,77,3.7,21,50,1,2026-06-10T12:53:30.404Z
+C1211_MS,Microsoft Power Apps Developer Lab 1,Digital,Microsoft,Self-paced,15,Intermediate,1,2,100,2,100,89,4.3,25,63,1,2026-06-10T12:53:30.404Z
+C1261_MS,Cognitive Services Deep Dive Lab 1,AI,Microsoft,Instructor-led,28,Advanced,2,4,100,2,50,86,4.55,24.5,89.5,1,2026-06-10T12:53:30.404Z
+C1432_CR,Enterprise Agile Frameworks Chapter 2,Digital,Coursera,Self-paced,20,Advanced,10,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1013_DB,Introduction To Pyspark Module 3,Data,Databricks,Self-paced,4,Beginner,5,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1302_CR,Healthcare Analytics Foundations Part 2,Domain,Coursera,Self-paced,5.5,Beginner,10,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1221_MS,Azure Devops Pipelines Workshop 1,Digital,Microsoft,Self-paced,18,Intermediate,1,2,100,2,100,91,4.5,24,66,1,2026-06-10T12:53:30.404Z
+C1252_MS,Azure Openai Integration Part 2,AI,Microsoft,Instructor-led,30,Advanced,10,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1173_MS,Azure Data Factory Basics Lab 3,Data,Microsoft,Instructor-led,10,Beginner,4,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1152_MS,Azure Data Fundamentals Dp-900 Part 2,Data,Microsoft,Instructor-led,8,Beginner,10,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1411_CR,Full Stack Web Development Lab 1,Digital,Coursera,Self-paced,30,Advanced,1,2,100,2,100,88,4.7,26,72,1,2026-06-10T12:53:30.404Z
+C1033_DB,Databricks Sql For Beginners Lab 3,Data,Databricks,Self-paced,2,Beginner,4,0,0,0,0,null,null,null,null,0,2026-06-10T12:53:30.404Z
+C1311_CR,Retail Data Insights Module 1,Domain,Coursera,Self-paced,6,Beginner,1,2,100,2,100,90,4.5,25,81,1,2026-06-10T12:53:30.404Z
+C1321_CR,Bfsi Risk Management Primer 1,Domain,Coursera,Self-paced,7.5,Beginner,1,2,100,2,100,79,4,24,135,1,2026-06-10T12:53:30.404Z
+C1441_CR,Digital Transformation Strategy Workshop 1,Digital,Coursera,Self-paced,24,Advanced,1,2,100,2,100,82,4.1,26,76,1,2026-06-10T12:53:30.404Z
+C1271_MS,Advanced Machine Learning On Azure 1,AI,Microsoft,Instructor-led,35,Advanced,1,2,100,2,100,92,4.9,25,59,1,2026-06-10T12:53:30.404Z
+C1051_DB,Advanced Pyspark Techniques Part 1,Data,Databricks,Instructor-led,16,Intermediate,1,2,100,2,100,85,4.5,21,45,1,2026-06-10T12:53:30.404Z

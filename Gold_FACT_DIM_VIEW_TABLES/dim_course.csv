@@ -1,0 +1,491 @@
+course_id,course_name,category,vendor,delivery_mode,duration_hours,difficulty_level,_gold_created_ts,_gold_updated_ts
+C1001_DB,Databricks Lakehouse Fundamentals Part 1,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1002_DB,Databricks Lakehouse Fundamentals Part 2,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1003_DB,Databricks Lakehouse Fundamentals Part 3,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1004_DB,Databricks Lakehouse Fundamentals Part 4,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1005_DB,Databricks Lakehouse Fundamentals Part 5,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1006_DB,Databricks Lakehouse Fundamentals Part 6,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1007_DB,Databricks Lakehouse Fundamentals Part 7,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1008_DB,Databricks Lakehouse Fundamentals Part 8,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1009_DB,Databricks Lakehouse Fundamentals Part 9,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1010_DB,Databricks Lakehouse Fundamentals Part 10,Data,Databricks,Self-paced,2.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1011_DB,Introduction To Pyspark Module 1,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1012_DB,Introduction To Pyspark Module 2,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1013_DB,Introduction To Pyspark Module 3,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1014_DB,Introduction To Pyspark Module 4,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1015_DB,Introduction To Pyspark Module 5,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1016_DB,Introduction To Pyspark Module 6,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1017_DB,Introduction To Pyspark Module 7,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1018_DB,Introduction To Pyspark Module 8,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1019_DB,Introduction To Pyspark Module 9,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1020_DB,Introduction To Pyspark Module 10,Data,Databricks,Self-paced,4,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1021_DB,Delta Lake Core Concepts Chapter 1,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1022_DB,Delta Lake Core Concepts Chapter 2,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1023_DB,Delta Lake Core Concepts Chapter 3,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1024_DB,Delta Lake Core Concepts Chapter 4,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1025_DB,Delta Lake Core Concepts Chapter 5,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1026_DB,Delta Lake Core Concepts Chapter 6,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1027_DB,Delta Lake Core Concepts Chapter 7,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1028_DB,Delta Lake Core Concepts Chapter 8,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1029_DB,Delta Lake Core Concepts Chapter 9,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1030_DB,Delta Lake Core Concepts Chapter 10,Data,Databricks,Self-paced,3,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1031_DB,Databricks Sql For Beginners Lab 1,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1032_DB,Databricks Sql For Beginners Lab 2,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1033_DB,Databricks Sql For Beginners Lab 3,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1034_DB,Databricks Sql For Beginners Lab 4,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1035_DB,Databricks Sql For Beginners Lab 5,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1036_DB,Databricks Sql For Beginners Lab 6,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1037_DB,Databricks Sql For Beginners Lab 7,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1038_DB,Databricks Sql For Beginners Lab 8,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1039_DB,Databricks Sql For Beginners Lab 9,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1040_DB,Databricks Sql For Beginners Lab 10,Data,Databricks,Self-paced,2,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1041_DB,Data Engineering On Databricks Primer 1,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1042_DB,Data Engineering On Databricks Primer 2,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1043_DB,Data Engineering On Databricks Primer 3,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1044_DB,Data Engineering On Databricks Primer 4,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1045_DB,Data Engineering On Databricks Primer 5,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1046_DB,Data Engineering On Databricks Primer 6,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1047_DB,Data Engineering On Databricks Primer 7,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1048_DB,Data Engineering On Databricks Primer 8,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1049_DB,Data Engineering On Databricks Primer 9,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1050_DB,Data Engineering On Databricks Primer 10,Data,Databricks,Self-paced,5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1051_DB,Advanced Pyspark Techniques Part 1,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1052_DB,Advanced Pyspark Techniques Part 2,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1053_DB,Advanced Pyspark Techniques Part 3,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1054_DB,Advanced Pyspark Techniques Part 4,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1055_DB,Advanced Pyspark Techniques Part 5,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1056_DB,Advanced Pyspark Techniques Part 6,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1057_DB,Advanced Pyspark Techniques Part 7,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1058_DB,Advanced Pyspark Techniques Part 8,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1059_DB,Advanced Pyspark Techniques Part 9,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1060_DB,Advanced Pyspark Techniques Part 10,Data,Databricks,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1061_DB,Delta Lake Optimization Lab 1,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1062_DB,Delta Lake Optimization Lab 2,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1063_DB,Delta Lake Optimization Lab 3,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1064_DB,Delta Lake Optimization Lab 4,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1065_DB,Delta Lake Optimization Lab 5,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1066_DB,Delta Lake Optimization Lab 6,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1067_DB,Delta Lake Optimization Lab 7,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1068_DB,Delta Lake Optimization Lab 8,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1069_DB,Delta Lake Optimization Lab 9,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1070_DB,Delta Lake Optimization Lab 10,Data,Databricks,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1071_DB,Databricks Data Pipeline Workshop 1,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1072_DB,Databricks Data Pipeline Workshop 2,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1073_DB,Databricks Data Pipeline Workshop 3,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1074_DB,Databricks Data Pipeline Workshop 4,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1075_DB,Databricks Data Pipeline Workshop 5,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1076_DB,Databricks Data Pipeline Workshop 6,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1077_DB,Databricks Data Pipeline Workshop 7,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1078_DB,Databricks Data Pipeline Workshop 8,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1079_DB,Databricks Data Pipeline Workshop 9,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1080_DB,Databricks Data Pipeline Workshop 10,Data,Databricks,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1081_DB,Streaming With Spark Structured Streaming 1,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1082_DB,Streaming With Spark Structured Streaming 2,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1083_DB,Streaming With Spark Structured Streaming 3,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1084_DB,Streaming With Spark Structured Streaming 4,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1085_DB,Streaming With Spark Structured Streaming 5,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1086_DB,Streaming With Spark Structured Streaming 6,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1087_DB,Streaming With Spark Structured Streaming 7,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1088_DB,Streaming With Spark Structured Streaming 8,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1089_DB,Streaming With Spark Structured Streaming 9,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1090_DB,Streaming With Spark Structured Streaming 10,Data,Databricks,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1091_DB,Databricks Certified Associate Prep 1,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1092_DB,Databricks Certified Associate Prep 2,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1093_DB,Databricks Certified Associate Prep 3,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1094_DB,Databricks Certified Associate Prep 4,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1095_DB,Databricks Certified Associate Prep 5,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1096_DB,Databricks Certified Associate Prep 6,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1097_DB,Databricks Certified Associate Prep 7,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1098_DB,Databricks Certified Associate Prep 8,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1099_DB,Databricks Certified Associate Prep 9,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1100_DB,Databricks Certified Associate Prep 10,Data,Databricks,Instructor-led,24,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1101_DB,Machine Learning With Databricks Part 1,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1102_DB,Machine Learning With Databricks Part 2,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1103_DB,Machine Learning With Databricks Part 3,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1104_DB,Machine Learning With Databricks Part 4,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1105_DB,Machine Learning With Databricks Part 5,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1106_DB,Machine Learning With Databricks Part 6,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1107_DB,Machine Learning With Databricks Part 7,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1108_DB,Machine Learning With Databricks Part 8,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1109_DB,Machine Learning With Databricks Part 9,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1110_DB,Machine Learning With Databricks Part 10,AI,Databricks,Self-paced,10,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1111_DB,Mlops On Databricks Lab 1,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1112_DB,Mlops On Databricks Lab 2,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1113_DB,Mlops On Databricks Lab 3,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1114_DB,Mlops On Databricks Lab 4,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1115_DB,Mlops On Databricks Lab 5,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1116_DB,Mlops On Databricks Lab 6,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1117_DB,Mlops On Databricks Lab 7,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1118_DB,Mlops On Databricks Lab 8,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1119_DB,Mlops On Databricks Lab 9,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1120_DB,Mlops On Databricks Lab 10,AI,Databricks,Self-paced,12.5,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1121_DB,Deep Learning With Mlflow Chapter 1,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1122_DB,Deep Learning With Mlflow Chapter 2,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1123_DB,Deep Learning With Mlflow Chapter 3,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1124_DB,Deep Learning With Mlflow Chapter 4,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1125_DB,Deep Learning With Mlflow Chapter 5,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1126_DB,Deep Learning With Mlflow Chapter 6,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1127_DB,Deep Learning With Mlflow Chapter 7,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1128_DB,Deep Learning With Mlflow Chapter 8,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1129_DB,Deep Learning With Mlflow Chapter 9,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1130_DB,Deep Learning With Mlflow Chapter 10,AI,Databricks,Self-paced,15,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1131_DB,Generative Ai On Databricks Module 1,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1132_DB,Generative Ai On Databricks Module 2,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1133_DB,Generative Ai On Databricks Module 3,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1134_DB,Generative Ai On Databricks Module 4,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1135_DB,Generative Ai On Databricks Module 5,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1136_DB,Generative Ai On Databricks Module 6,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1137_DB,Generative Ai On Databricks Module 7,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1138_DB,Generative Ai On Databricks Module 8,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1139_DB,Generative Ai On Databricks Module 9,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1140_DB,Generative Ai On Databricks Module 10,AI,Databricks,Self-paced,18,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1141_DB,Databricks Ai Architect Workshop 1,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1142_DB,Databricks Ai Architect Workshop 2,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1143_DB,Databricks Ai Architect Workshop 3,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1144_DB,Databricks Ai Architect Workshop 4,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1145_DB,Databricks Ai Architect Workshop 5,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1146_DB,Databricks Ai Architect Workshop 6,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1147_DB,Databricks Ai Architect Workshop 7,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1148_DB,Databricks Ai Architect Workshop 8,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1149_DB,Databricks Ai Architect Workshop 9,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1150_DB,Databricks Ai Architect Workshop 10,AI,Databricks,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1151_MS,Azure Data Fundamentals Dp-900 Part 1,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1152_MS,Azure Data Fundamentals Dp-900 Part 2,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1153_MS,Azure Data Fundamentals Dp-900 Part 3,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1154_MS,Azure Data Fundamentals Dp-900 Part 4,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1155_MS,Azure Data Fundamentals Dp-900 Part 5,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1156_MS,Azure Data Fundamentals Dp-900 Part 6,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1157_MS,Azure Data Fundamentals Dp-900 Part 7,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1158_MS,Azure Data Fundamentals Dp-900 Part 8,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1159_MS,Azure Data Fundamentals Dp-900 Part 9,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1160_MS,Azure Data Fundamentals Dp-900 Part 10,Data,Microsoft,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1161_MS,Introduction To Azure Synapse Module 1,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1162_MS,Introduction To Azure Synapse Module 2,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1163_MS,Introduction To Azure Synapse Module 3,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1164_MS,Introduction To Azure Synapse Module 4,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1165_MS,Introduction To Azure Synapse Module 5,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1166_MS,Introduction To Azure Synapse Module 6,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1167_MS,Introduction To Azure Synapse Module 7,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1168_MS,Introduction To Azure Synapse Module 8,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1169_MS,Introduction To Azure Synapse Module 9,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1170_MS,Introduction To Azure Synapse Module 10,Data,Microsoft,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1171_MS,Azure Data Factory Basics Lab 1,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1172_MS,Azure Data Factory Basics Lab 2,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1173_MS,Azure Data Factory Basics Lab 3,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1174_MS,Azure Data Factory Basics Lab 4,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1175_MS,Azure Data Factory Basics Lab 5,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1176_MS,Azure Data Factory Basics Lab 6,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1177_MS,Azure Data Factory Basics Lab 7,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1178_MS,Azure Data Factory Basics Lab 8,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1179_MS,Azure Data Factory Basics Lab 9,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1180_MS,Azure Data Factory Basics Lab 10,Data,Microsoft,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1181_MS,Sql Server To Azure Migration Primer 1,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1182_MS,Sql Server To Azure Migration Primer 2,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1183_MS,Sql Server To Azure Migration Primer 3,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1184_MS,Sql Server To Azure Migration Primer 4,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1185_MS,Sql Server To Azure Migration Primer 5,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1186_MS,Sql Server To Azure Migration Primer 6,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1187_MS,Sql Server To Azure Migration Primer 7,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1188_MS,Sql Server To Azure Migration Primer 8,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1189_MS,Sql Server To Azure Migration Primer 9,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1190_MS,Sql Server To Azure Migration Primer 10,Data,Microsoft,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1191_MS,Power Bi Integration With Azure Chapter 1,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1192_MS,Power Bi Integration With Azure Chapter 2,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1193_MS,Power Bi Integration With Azure Chapter 3,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1194_MS,Power Bi Integration With Azure Chapter 4,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1195_MS,Power Bi Integration With Azure Chapter 5,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1196_MS,Power Bi Integration With Azure Chapter 6,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1197_MS,Power Bi Integration With Azure Chapter 7,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1198_MS,Power Bi Integration With Azure Chapter 8,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1199_MS,Power Bi Integration With Azure Chapter 9,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1200_MS,Power Bi Integration With Azure Chapter 10,Data,Microsoft,Instructor-led,16,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1201_MS,Azure Cloud Administration Part 1,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1202_MS,Azure Cloud Administration Part 2,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1203_MS,Azure Cloud Administration Part 3,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1204_MS,Azure Cloud Administration Part 4,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1205_MS,Azure Cloud Administration Part 5,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1206_MS,Azure Cloud Administration Part 6,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1207_MS,Azure Cloud Administration Part 7,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1208_MS,Azure Cloud Administration Part 8,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1209_MS,Azure Cloud Administration Part 9,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1210_MS,Azure Cloud Administration Part 10,Digital,Microsoft,Self-paced,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1211_MS,Microsoft Power Apps Developer Lab 1,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1212_MS,Microsoft Power Apps Developer Lab 2,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1213_MS,Microsoft Power Apps Developer Lab 3,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1214_MS,Microsoft Power Apps Developer Lab 4,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1215_MS,Microsoft Power Apps Developer Lab 5,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1216_MS,Microsoft Power Apps Developer Lab 6,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1217_MS,Microsoft Power Apps Developer Lab 7,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1218_MS,Microsoft Power Apps Developer Lab 8,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1219_MS,Microsoft Power Apps Developer Lab 9,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1220_MS,Microsoft Power Apps Developer Lab 10,Digital,Microsoft,Self-paced,15,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1221_MS,Azure Devops Pipelines Workshop 1,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1222_MS,Azure Devops Pipelines Workshop 2,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1223_MS,Azure Devops Pipelines Workshop 3,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1224_MS,Azure Devops Pipelines Workshop 4,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1225_MS,Azure Devops Pipelines Workshop 5,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1226_MS,Azure Devops Pipelines Workshop 6,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1227_MS,Azure Devops Pipelines Workshop 7,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1228_MS,Azure Devops Pipelines Workshop 8,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1229_MS,Azure Devops Pipelines Workshop 9,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1230_MS,Azure Devops Pipelines Workshop 10,Digital,Microsoft,Self-paced,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1231_MS,Securing Azure Web Apps Module 1,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1232_MS,Securing Azure Web Apps Module 2,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1233_MS,Securing Azure Web Apps Module 3,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1234_MS,Securing Azure Web Apps Module 4,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1235_MS,Securing Azure Web Apps Module 5,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1236_MS,Securing Azure Web Apps Module 6,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1237_MS,Securing Azure Web Apps Module 7,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1238_MS,Securing Azure Web Apps Module 8,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1239_MS,Securing Azure Web Apps Module 9,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1240_MS,Securing Azure Web Apps Module 10,Digital,Microsoft,Self-paced,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1241_MS,Azure Iot Solutions Chapter 1,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1242_MS,Azure Iot Solutions Chapter 2,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1243_MS,Azure Iot Solutions Chapter 3,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1244_MS,Azure Iot Solutions Chapter 4,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1245_MS,Azure Iot Solutions Chapter 5,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1246_MS,Azure Iot Solutions Chapter 6,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1247_MS,Azure Iot Solutions Chapter 7,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1248_MS,Azure Iot Solutions Chapter 8,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1249_MS,Azure Iot Solutions Chapter 9,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1250_MS,Azure Iot Solutions Chapter 10,Digital,Microsoft,Self-paced,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1251_MS,Azure Openai Integration Part 1,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1252_MS,Azure Openai Integration Part 2,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1253_MS,Azure Openai Integration Part 3,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1254_MS,Azure Openai Integration Part 4,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1255_MS,Azure Openai Integration Part 5,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1256_MS,Azure Openai Integration Part 6,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1257_MS,Azure Openai Integration Part 7,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1258_MS,Azure Openai Integration Part 8,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1259_MS,Azure Openai Integration Part 9,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1260_MS,Azure Openai Integration Part 10,AI,Microsoft,Instructor-led,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1261_MS,Cognitive Services Deep Dive Lab 1,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1262_MS,Cognitive Services Deep Dive Lab 2,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1263_MS,Cognitive Services Deep Dive Lab 3,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1264_MS,Cognitive Services Deep Dive Lab 4,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1265_MS,Cognitive Services Deep Dive Lab 5,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1266_MS,Cognitive Services Deep Dive Lab 6,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1267_MS,Cognitive Services Deep Dive Lab 7,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1268_MS,Cognitive Services Deep Dive Lab 8,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1269_MS,Cognitive Services Deep Dive Lab 9,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1270_MS,Cognitive Services Deep Dive Lab 10,AI,Microsoft,Instructor-led,28,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1271_MS,Advanced Machine Learning On Azure 1,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1272_MS,Advanced Machine Learning On Azure 2,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1273_MS,Advanced Machine Learning On Azure 3,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1274_MS,Advanced Machine Learning On Azure 4,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1275_MS,Advanced Machine Learning On Azure 5,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1276_MS,Advanced Machine Learning On Azure 6,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1277_MS,Advanced Machine Learning On Azure 7,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1278_MS,Advanced Machine Learning On Azure 8,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1279_MS,Advanced Machine Learning On Azure 9,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1280_MS,Advanced Machine Learning On Azure 10,AI,Microsoft,Instructor-led,35,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1281_MS,Natural Language Processing With Azure 1,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1282_MS,Natural Language Processing With Azure 2,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1283_MS,Natural Language Processing With Azure 3,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1284_MS,Natural Language Processing With Azure 4,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1285_MS,Natural Language Processing With Azure 5,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1286_MS,Natural Language Processing With Azure 6,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1287_MS,Natural Language Processing With Azure 7,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1288_MS,Natural Language Processing With Azure 8,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1289_MS,Natural Language Processing With Azure 9,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1290_MS,Natural Language Processing With Azure 10,AI,Microsoft,Instructor-led,32,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1291_MS,Computer Vision Architectures Module 1,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1292_MS,Computer Vision Architectures Module 2,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1293_MS,Computer Vision Architectures Module 3,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1294_MS,Computer Vision Architectures Module 4,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1295_MS,Computer Vision Architectures Module 5,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1296_MS,Computer Vision Architectures Module 6,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1297_MS,Computer Vision Architectures Module 7,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1298_MS,Computer Vision Architectures Module 8,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1299_MS,Computer Vision Architectures Module 9,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1300_MS,Computer Vision Architectures Module 10,AI,Microsoft,Instructor-led,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1301_CR,Healthcare Analytics Foundations Part 1,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1302_CR,Healthcare Analytics Foundations Part 2,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1303_CR,Healthcare Analytics Foundations Part 3,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1304_CR,Healthcare Analytics Foundations Part 4,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1305_CR,Healthcare Analytics Foundations Part 5,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1306_CR,Healthcare Analytics Foundations Part 6,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1307_CR,Healthcare Analytics Foundations Part 7,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1308_CR,Healthcare Analytics Foundations Part 8,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1309_CR,Healthcare Analytics Foundations Part 9,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1310_CR,Healthcare Analytics Foundations Part 10,Domain,Coursera,Self-paced,5.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1311_CR,Retail Data Insights Module 1,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1312_CR,Retail Data Insights Module 2,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1313_CR,Retail Data Insights Module 3,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1314_CR,Retail Data Insights Module 4,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1315_CR,Retail Data Insights Module 5,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1316_CR,Retail Data Insights Module 6,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1317_CR,Retail Data Insights Module 7,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1318_CR,Retail Data Insights Module 8,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1319_CR,Retail Data Insights Module 9,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1320_CR,Retail Data Insights Module 10,Domain,Coursera,Self-paced,6,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1321_CR,Bfsi Risk Management Primer 1,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1322_CR,Bfsi Risk Management Primer 2,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1323_CR,Bfsi Risk Management Primer 3,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1324_CR,Bfsi Risk Management Primer 4,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1325_CR,Bfsi Risk Management Primer 5,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1326_CR,Bfsi Risk Management Primer 6,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1327_CR,Bfsi Risk Management Primer 7,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1328_CR,Bfsi Risk Management Primer 8,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1329_CR,Bfsi Risk Management Primer 9,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1330_CR,Bfsi Risk Management Primer 10,Domain,Coursera,Self-paced,7.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1331_CR,Manufacturing Operations Analytics Lab 1,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1332_CR,Manufacturing Operations Analytics Lab 2,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1333_CR,Manufacturing Operations Analytics Lab 3,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1334_CR,Manufacturing Operations Analytics Lab 4,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1335_CR,Manufacturing Operations Analytics Lab 5,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1336_CR,Manufacturing Operations Analytics Lab 6,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1337_CR,Manufacturing Operations Analytics Lab 7,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1338_CR,Manufacturing Operations Analytics Lab 8,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1339_CR,Manufacturing Operations Analytics Lab 9,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1340_CR,Manufacturing Operations Analytics Lab 10,Domain,Coursera,Self-paced,4.5,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1341_CR,Supply Chain Analytics Chapter 1,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1342_CR,Supply Chain Analytics Chapter 2,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1343_CR,Supply Chain Analytics Chapter 3,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1344_CR,Supply Chain Analytics Chapter 4,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1345_CR,Supply Chain Analytics Chapter 5,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1346_CR,Supply Chain Analytics Chapter 6,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1347_CR,Supply Chain Analytics Chapter 7,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1348_CR,Supply Chain Analytics Chapter 8,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1349_CR,Supply Chain Analytics Chapter 9,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1350_CR,Supply Chain Analytics Chapter 10,Domain,Coursera,Self-paced,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1351_CR,Applied Data Science With Python Part 1,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1352_CR,Applied Data Science With Python Part 2,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1353_CR,Applied Data Science With Python Part 3,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1354_CR,Applied Data Science With Python Part 4,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1355_CR,Applied Data Science With Python Part 5,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1356_CR,Applied Data Science With Python Part 6,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1357_CR,Applied Data Science With Python Part 7,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1358_CR,Applied Data Science With Python Part 8,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1359_CR,Applied Data Science With Python Part 9,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1360_CR,Applied Data Science With Python Part 10,Data,Coursera,Instructor-led,16,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1361_CR,Big Data Ecosystems Lab 1,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1362_CR,Big Data Ecosystems Lab 2,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1363_CR,Big Data Ecosystems Lab 3,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1364_CR,Big Data Ecosystems Lab 4,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1365_CR,Big Data Ecosystems Lab 5,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1366_CR,Big Data Ecosystems Lab 6,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1367_CR,Big Data Ecosystems Lab 7,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1368_CR,Big Data Ecosystems Lab 8,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1369_CR,Big Data Ecosystems Lab 9,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1370_CR,Big Data Ecosystems Lab 10,Data,Coursera,Instructor-led,20,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1371_CR,Relational Database Design Module 1,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1372_CR,Relational Database Design Module 2,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1373_CR,Relational Database Design Module 3,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1374_CR,Relational Database Design Module 4,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1375_CR,Relational Database Design Module 5,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1376_CR,Relational Database Design Module 6,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1377_CR,Relational Database Design Module 7,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1378_CR,Relational Database Design Module 8,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1379_CR,Relational Database Design Module 9,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1380_CR,Relational Database Design Module 10,Data,Coursera,Instructor-led,12,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1381_CR,Data Warehousing Concepts Chapter 1,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1382_CR,Data Warehousing Concepts Chapter 2,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1383_CR,Data Warehousing Concepts Chapter 3,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1384_CR,Data Warehousing Concepts Chapter 4,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1385_CR,Data Warehousing Concepts Chapter 5,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1386_CR,Data Warehousing Concepts Chapter 6,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1387_CR,Data Warehousing Concepts Chapter 7,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1388_CR,Data Warehousing Concepts Chapter 8,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1389_CR,Data Warehousing Concepts Chapter 9,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1390_CR,Data Warehousing Concepts Chapter 10,Data,Coursera,Instructor-led,14,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1391_CR,Etl Pipeline Construction Workshop 1,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1392_CR,Etl Pipeline Construction Workshop 2,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1393_CR,Etl Pipeline Construction Workshop 3,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1394_CR,Etl Pipeline Construction Workshop 4,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1395_CR,Etl Pipeline Construction Workshop 5,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1396_CR,Etl Pipeline Construction Workshop 6,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1397_CR,Etl Pipeline Construction Workshop 7,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1398_CR,Etl Pipeline Construction Workshop 8,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1399_CR,Etl Pipeline Construction Workshop 9,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1400_CR,Etl Pipeline Construction Workshop 10,Data,Coursera,Instructor-led,18,Intermediate,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1401_CR,Cloud Native Architecture Part 1,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1402_CR,Cloud Native Architecture Part 2,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1403_CR,Cloud Native Architecture Part 3,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1404_CR,Cloud Native Architecture Part 4,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1405_CR,Cloud Native Architecture Part 5,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1406_CR,Cloud Native Architecture Part 6,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1407_CR,Cloud Native Architecture Part 7,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1408_CR,Cloud Native Architecture Part 8,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1409_CR,Cloud Native Architecture Part 9,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1410_CR,Cloud Native Architecture Part 10,Digital,Coursera,Self-paced,25,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1411_CR,Full Stack Web Development Lab 1,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1412_CR,Full Stack Web Development Lab 2,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1413_CR,Full Stack Web Development Lab 3,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1414_CR,Full Stack Web Development Lab 4,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1415_CR,Full Stack Web Development Lab 5,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1416_CR,Full Stack Web Development Lab 6,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1417_CR,Full Stack Web Development Lab 7,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1418_CR,Full Stack Web Development Lab 8,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1419_CR,Full Stack Web Development Lab 9,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1420_CR,Full Stack Web Development Lab 10,Digital,Coursera,Self-paced,30,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1421_CR,Cybersecurity Advanced Practices Module 1,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1422_CR,Cybersecurity Advanced Practices Module 2,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1423_CR,Cybersecurity Advanced Practices Module 3,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1424_CR,Cybersecurity Advanced Practices Module 4,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1425_CR,Cybersecurity Advanced Practices Module 5,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1426_CR,Cybersecurity Advanced Practices Module 6,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1427_CR,Cybersecurity Advanced Practices Module 7,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1428_CR,Cybersecurity Advanced Practices Module 8,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1429_CR,Cybersecurity Advanced Practices Module 9,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1430_CR,Cybersecurity Advanced Practices Module 10,Digital,Coursera,Self-paced,22,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1431_CR,Enterprise Agile Frameworks Chapter 1,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1432_CR,Enterprise Agile Frameworks Chapter 2,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1433_CR,Enterprise Agile Frameworks Chapter 3,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1434_CR,Enterprise Agile Frameworks Chapter 4,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1435_CR,Enterprise Agile Frameworks Chapter 5,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1436_CR,Enterprise Agile Frameworks Chapter 6,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1437_CR,Enterprise Agile Frameworks Chapter 7,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1438_CR,Enterprise Agile Frameworks Chapter 8,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1439_CR,Enterprise Agile Frameworks Chapter 9,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1440_CR,Enterprise Agile Frameworks Chapter 10,Digital,Coursera,Self-paced,20,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1441_CR,Digital Transformation Strategy Workshop 1,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1442_CR,Digital Transformation Strategy Workshop 2,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1443_CR,Digital Transformation Strategy Workshop 3,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1444_CR,Digital Transformation Strategy Workshop 4,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1445_CR,Digital Transformation Strategy Workshop 5,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1446_CR,Digital Transformation Strategy Workshop 6,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1447_CR,Digital Transformation Strategy Workshop 7,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1448_CR,Digital Transformation Strategy Workshop 8,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1449_CR,Digital Transformation Strategy Workshop 9,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1450_CR,Digital Transformation Strategy Workshop 10,Digital,Coursera,Self-paced,24,Advanced,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1451_CR,Ai For Everyone Module 1,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1452_CR,Ai For Everyone Module 2,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1453_CR,Ai For Everyone Module 3,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1454_CR,Ai For Everyone Module 4,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1455_CR,Ai For Everyone Module 5,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1456_CR,Ai For Everyone Module 6,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1457_CR,Ai For Everyone Module 7,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1458_CR,Ai For Everyone Module 8,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1459_CR,Ai For Everyone Module 9,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1460_CR,Ai For Everyone Module 10,AI,Coursera,Instructor-led,8,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1461_CR,Intro To Machine Learning Part 1,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1462_CR,Intro To Machine Learning Part 2,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1463_CR,Intro To Machine Learning Part 3,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1464_CR,Intro To Machine Learning Part 4,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1465_CR,Intro To Machine Learning Part 5,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1466_CR,Intro To Machine Learning Part 6,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1467_CR,Intro To Machine Learning Part 7,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1468_CR,Intro To Machine Learning Part 8,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1469_CR,Intro To Machine Learning Part 9,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1470_CR,Intro To Machine Learning Part 10,AI,Coursera,Instructor-led,10,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1471_CR,Neural Networks Basics Lab 1,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1472_CR,Neural Networks Basics Lab 2,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1473_CR,Neural Networks Basics Lab 3,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1474_CR,Neural Networks Basics Lab 4,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1475_CR,Neural Networks Basics Lab 5,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1476_CR,Neural Networks Basics Lab 6,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1477_CR,Neural Networks Basics Lab 7,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1478_CR,Neural Networks Basics Lab 8,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1479_CR,Neural Networks Basics Lab 9,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1480_CR,Neural Networks Basics Lab 10,AI,Coursera,Instructor-led,12,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1481_CR,Generative Ai Fundamentals Chapter 1,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1482_CR,Generative Ai Fundamentals Chapter 2,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1483_CR,Generative Ai Fundamentals Chapter 3,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1484_CR,Generative Ai Fundamentals Chapter 4,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1485_CR,Generative Ai Fundamentals Chapter 5,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1486_CR,Generative Ai Fundamentals Chapter 6,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1487_CR,Generative Ai Fundamentals Chapter 7,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1488_CR,Generative Ai Fundamentals Chapter 8,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1489_CR,Generative Ai Fundamentals Chapter 9,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z
+C1490_CR,Generative Ai Fundamentals Chapter 10,AI,Coursera,Instructor-led,14,Beginner,2026-06-09T17:52:57.256Z,2026-06-10T12:08:38.343Z

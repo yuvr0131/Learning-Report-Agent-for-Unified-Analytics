@@ -1,0 +1,455 @@
+skill_id,employee_id,primary_skill,secondary_skill,skill_category,skill_combo,skills_declared,skills_verified,skill_readiness_status,is_declared,is_verified,verification_gap,_gold_created_ts,_gold_updated_ts
+SK491,E10001,PySpark,Cloud Native,Data & Analytics,PySpark | Cloud Native,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK001,E10001,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK002,E10002,Databricks,SQL,Data & Analytics,Databricks | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK003,E10003,Data Engineering,Python,Data & Analytics,Data Engineering | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK004,E10004,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK005,E10005,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK006,E10006,Machine Learning,Python,Data & Analytics,Machine Learning | Python,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK007,E10007,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK008,E10008,Full Stack,React,Programming,Full Stack | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK009,E10009,SAP,ERP,Enterprise Apps,SAP | ERP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK010,E10010,Healthcare Analytics,SQL,Domain / Industry,Healthcare Analytics | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK011,E10011,PySpark,ETL,Data & Analytics,PySpark | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK012,E10012,SQL,Databricks,Data & Analytics,SQL | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK013,E10013,Python,SQL,Programming,Python | SQL,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK014,E10014,Databricks,Azure,Data & Analytics,Databricks | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK015,E10015,PySpark,ETL,Data & Analytics,PySpark | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK016,E10016,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK017,E10017,Power BI,SQL,Visualization & BI,Power BI | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK018,E10018,SQL,Excel,Data & Analytics,SQL | Excel,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK019,E10019,Tableau,Python,Visualization & BI,Tableau | Python,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK020,E10020,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK021,E10021,Machine Learning,R,Data & Analytics,Machine Learning | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK022,E10022,Python,Machine Learning,Programming,Python | Machine Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK023,E10023,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK024,E10024,AWS,Cloud Native,Cloud & DevOps,AWS | Cloud Native,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK025,E10025,Cloud Architecture,Azure,Cloud & DevOps,Cloud Architecture | Azure,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK026,E10026,Java,Spring Boot,Programming,Java | Spring Boot,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK027,E10027,React,Node.js,Programming,React | Node.js,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK029,E10029,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK030,E10030,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK031,E10031,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK032,E10032,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK033,E10033,Databricks,PySpark,Data & Analytics,Databricks | PySpark,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK034,E10034,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK035,E10035,PySpark,Azure,Data & Analytics,PySpark | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK036,E10036,Power BI,SQL,Visualization & BI,Power BI | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK037,E10037,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK038,E10038,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK039,E10039,Azure,Networking,Cloud & DevOps,Azure | Networking,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK040,E10040,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK042,E10042,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK043,E10043,PySpark,ETL,Data & Analytics,PySpark | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK044,E10044,Databricks,Delta Lake,Data & Analytics,Databricks | Delta Lake,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK045,E10045,SQL,Python,Data & Analytics,SQL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK046,E10046,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK047,E10047,SQL,Analytics,Data & Analytics,SQL | Analytics,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK048,E10048,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK049,E10049,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK050,E10050,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK051,E10051,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK052,E10052,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK053,E10053,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK054,E10054,Power Apps,Automate,Visualization & BI,Power Apps | Automate,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK055,E10055,SAP,ABAP,Enterprise Apps,SAP | ABAP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK056,E10056,Supply Chain,Domain Consulting,Domain / Industry,Supply Chain | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK057,E10057,Retail Insights,Analytics,Domain / Industry,Retail Insights | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK058,E10058,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK060,E10060,Delta Lake,PySpark,Data & Analytics,Delta Lake | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK061,E10061,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK062,E10062,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK063,E10063,SQL,Python,Data & Analytics,SQL | Python,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK064,E10064,Data Science,Machine Learning,Data & Analytics,Data Science | Machine Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK065,E10065,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK066,E10066,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK067,E10067,AWS,DevOps,Cloud & DevOps,AWS | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK068,E10068,Java,Spring Boot,Programming,Java | Spring Boot,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK070,E10070,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK071,E10071,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK072,E10072,Healthcare Analytics,SQL,Domain / Industry,Healthcare Analytics | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK073,E10073,Supply Chain,Domain Consulting,Domain / Industry,Supply Chain | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK074,E10074,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK075,E10075,ETL,Azure,Data & Analytics,ETL | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK076,E10076,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK077,E10077,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK078,E10078,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK079,E10079,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK080,E10080,Machine Learning,Deep Learning,Data & Analytics,Machine Learning | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK081,E10081,NLP,Python,Data & Analytics,NLP | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK493,E10082,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK082,E10082,Azure,Cloud Native,Cloud & DevOps,Azure | Cloud Native,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK083,E10083,DevOps,CI/CD,Cloud & DevOps,DevOps | CI/CD,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK084,E10084,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK085,E10085,React,Node.js,Programming,React | Node.js,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK086,E10086,SAP,ERP,Enterprise Apps,SAP | ERP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK087,E10087,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK088,E10088,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK090,E10090,PySpark,Delta Lake,Data & Analytics,PySpark | Delta Lake,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK091,E10091,Databricks,SQL,Data & Analytics,Databricks | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK092,E10092,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK093,E10093,Power BI,SQL,Visualization & BI,Power BI | SQL,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK094,E10094,Tableau,Data Modeling,Visualization & BI,Tableau | Data Modeling,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK095,E10095,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK096,E10096,Machine Learning,R,Data & Analytics,Machine Learning | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK097,E10097,Python,Data Science,Programming,Python | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK098,E10098,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK100,E10100,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK101,E10101,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK102,E10102,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK103,E10103,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK104,E10104,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK105,E10105,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK106,E10106,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK108,E10108,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK109,E10109,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK110,E10110,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK111,E10111,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK112,E10112,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK113,E10113,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK114,E10114,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK115,E10115,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK116,E10116,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK118,E10118,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK119,E10119,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK120,E10120,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK121,E10121,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK122,E10122,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK123,E10123,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK124,E10124,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK125,E10125,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK126,E10126,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK127,E10127,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK128,E10128,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK129,E10129,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK130,E10130,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK131,E10131,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK132,E10132,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK133,E10133,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK134,E10134,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK135,E10135,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK136,E10136,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK138,E10138,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK139,E10139,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK140,E10140,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK141,E10141,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK142,E10142,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK143,E10143,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK144,E10144,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK145,E10145,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK146,E10146,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK148,E10148,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK149,E10149,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK150,E10150,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK151,E10151,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK152,E10152,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK153,E10153,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK154,E10154,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK156,E10156,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK157,E10157,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK158,E10158,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK159,E10159,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK160,E10160,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK161,E10161,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK162,E10162,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK163,E10163,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK164,E10164,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK166,E10166,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK167,E10167,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK168,E10168,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK169,E10169,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK170,E10170,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK171,E10171,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK172,E10172,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK173,E10173,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK174,E10174,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK175,E10175,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK176,E10176,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK177,E10177,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK178,E10178,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK179,E10179,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK180,E10180,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK181,E10181,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK182,E10182,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK183,E10183,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK184,E10184,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK186,E10186,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK187,E10187,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK188,E10188,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK189,E10189,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK190,E10190,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK191,E10191,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK192,E10192,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK193,E10193,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK194,E10194,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK196,E10196,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK197,E10197,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK198,E10198,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK199,E10199,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK200,E10200,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK201,E10201,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK202,E10202,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK204,E10204,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK205,E10205,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK206,E10206,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK207,E10207,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK208,E10208,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK209,E10209,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK210,E10210,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK211,E10211,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK212,E10212,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK214,E10214,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK215,E10215,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK216,E10216,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK217,E10217,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK218,E10218,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK219,E10219,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK220,E10220,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK221,E10221,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK222,E10222,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK223,E10223,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK224,E10224,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK225,E10225,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK226,E10226,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK227,E10227,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK228,E10228,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK229,E10229,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK230,E10230,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK231,E10231,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK232,E10232,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK234,E10234,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK235,E10235,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK236,E10236,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK237,E10237,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK238,E10238,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK239,E10239,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK240,E10240,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK241,E10241,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK242,E10242,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK244,E10244,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK245,E10245,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK246,E10246,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK247,E10247,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK248,E10248,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK249,E10249,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK250,E10250,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK252,E10252,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK253,E10253,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK254,E10254,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK255,E10255,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK256,E10256,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK257,E10257,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK258,E10258,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK259,E10259,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK260,E10260,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK262,E10262,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK263,E10263,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK264,E10264,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK265,E10265,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK266,E10266,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK267,E10267,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK268,E10268,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK269,E10269,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK270,E10270,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK271,E10271,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK272,E10272,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK273,E10273,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK274,E10274,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK275,E10275,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK276,E10276,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK277,E10277,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK278,E10278,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK279,E10279,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK280,E10280,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK282,E10282,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK283,E10283,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK284,E10284,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK285,E10285,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK286,E10286,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK287,E10287,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK288,E10288,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK289,E10289,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK290,E10290,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK292,E10292,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK293,E10293,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK294,E10294,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK295,E10295,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK296,E10296,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK297,E10297,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK298,E10298,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK300,E10300,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK301,E10301,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK302,E10302,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK303,E10303,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK304,E10304,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK305,E10305,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK306,E10306,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK307,E10307,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK308,E10308,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK310,E10310,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK311,E10311,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK312,E10312,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK313,E10313,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK314,E10314,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK315,E10315,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK316,E10316,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK317,E10317,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK318,E10318,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK319,E10319,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK320,E10320,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK321,E10321,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK322,E10322,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK323,E10323,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK324,E10324,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK325,E10325,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK326,E10326,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK327,E10327,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK328,E10328,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK330,E10330,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK331,E10331,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK332,E10332,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK333,E10333,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK334,E10334,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK335,E10335,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK336,E10336,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK337,E10337,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK338,E10338,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK340,E10340,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK341,E10341,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK342,E10342,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK343,E10343,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK344,E10344,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK345,E10345,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK346,E10346,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK348,E10348,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK349,E10349,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK350,E10350,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK351,E10351,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK352,E10352,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK353,E10353,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK354,E10354,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK355,E10355,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK356,E10356,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK358,E10358,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK359,E10359,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK360,E10360,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK361,E10361,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK362,E10362,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK363,E10363,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK364,E10364,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK365,E10365,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK366,E10366,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK367,E10367,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK368,E10368,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK369,E10369,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK370,E10370,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK371,E10371,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK372,E10372,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK373,E10373,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK374,E10374,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK375,E10375,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK376,E10376,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK378,E10378,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK379,E10379,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK380,E10380,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK381,E10381,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK382,E10382,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK383,E10383,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK384,E10384,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK385,E10385,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK386,E10386,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK388,E10388,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK389,E10389,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK390,E10390,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK391,E10391,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK392,E10392,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK393,E10393,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK394,E10394,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK396,E10396,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK397,E10397,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK398,E10398,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK399,E10399,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK400,E10400,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK401,E10401,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK402,E10402,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK403,E10403,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK404,E10404,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK406,E10406,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK407,E10407,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK408,E10408,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK409,E10409,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK410,E10410,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK411,E10411,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK412,E10412,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK413,E10413,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK414,E10414,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK415,E10415,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK416,E10416,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK417,E10417,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK418,E10418,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK419,E10419,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK420,E10420,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK421,E10421,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK422,E10422,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK423,E10423,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK424,E10424,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK426,E10426,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK427,E10427,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK428,E10428,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK429,E10429,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK430,E10430,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK431,E10431,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK432,E10432,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK433,E10433,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK434,E10434,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK436,E10436,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK437,E10437,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK438,E10438,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK439,E10439,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK440,E10440,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK441,E10441,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK442,E10442,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK444,E10444,PySpark,SQL,Data & Analytics,PySpark | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK445,E10445,Power BI,Tableau,Visualization & BI,Power BI | Tableau,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK446,E10446,SQL,Analytics,Data & Analytics,SQL | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK447,E10447,Python,SQL,Programming,Python | SQL,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK448,E10448,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK449,E10449,Deep Learning,NLP,Data & Analytics,Deep Learning | NLP,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK450,E10450,Azure,Cloud Architecture,Cloud & DevOps,Azure | Cloud Architecture,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK451,E10451,Cloud Native,Azure,Cloud & DevOps,Cloud Native | Azure,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK452,E10452,React,Node.js,Programming,React | Node.js,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK454,E10454,SAP,ABAP,Enterprise Apps,SAP | ABAP,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK455,E10455,Power Apps,Automate,Visualization & BI,Power Apps | Automate,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK456,E10456,Healthcare Analytics,Domain Consulting,Domain / Industry,Healthcare Analytics | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK457,E10457,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK458,E10458,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK459,E10459,ETL,SQL,Data & Analytics,ETL | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK460,E10460,SQL,Data Engineering,Data & Analytics,SQL | Data Engineering,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK461,E10461,Power BI,DAX,Visualization & BI,Power BI | DAX,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK462,E10462,Tableau,Dashboarding,Visualization & BI,Tableau | Dashboarding,No,null,Not Declared,false,null,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK463,E10463,Python,Analytics,Programming,Python | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK464,E10464,Machine Learning,Data Science,Data & Analytics,Machine Learning | Data Science,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK465,E10465,Python,R,Programming,Python | R,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK466,E10466,Azure,DevOps,Cloud & DevOps,Azure | DevOps,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK467,E10467,AWS,Cloud Architecture,Cloud & DevOps,AWS | Cloud Architecture,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK468,E10468,Full Stack,Java,Programming,Full Stack | Java,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK469,E10469,JavaScript,React,Programming,JavaScript | React,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK470,E10470,Salesforce,CRM,Enterprise Apps,Salesforce | CRM,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK471,E10471,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK472,E10472,Retail Insights,Domain Consulting,Domain / Industry,Retail Insights | Domain Consulting,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK474,E10474,PySpark,Databricks,Data & Analytics,PySpark | Databricks,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK475,E10475,Databricks,ETL,Data & Analytics,Databricks | ETL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK476,E10476,ETL,Python,Data & Analytics,ETL | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK477,E10477,Power BI,Data Modeling,Visualization & BI,Power BI | Data Modeling,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK478,E10478,Tableau,SQL,Visualization & BI,Tableau | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK479,E10479,SQL,Excel,Data & Analytics,SQL | Excel,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK480,E10480,Machine Learning,Python,Data & Analytics,Machine Learning | Python,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK481,E10481,NLP,Deep Learning,Data & Analytics,NLP | Deep Learning,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK482,E10482,Azure,Terraform,Cloud & DevOps,Azure | Terraform,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK484,E10484,Java,Microservices,Programming,Java | Microservices,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK485,E10485,React,JavaScript,Programming,React | JavaScript,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK486,E10486,Salesforce,Apex,Enterprise Apps,Salesforce | Apex,No,No,Not Declared,false,false,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK487,E10487,Power Apps,SharePoint,Visualization & BI,Power Apps | SharePoint,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK488,E10488,Supply Chain,Analytics,Domain / Industry,Supply Chain | Analytics,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK489,E10489,Retail Insights,SQL,Domain / Industry,Retail Insights | SQL,Yes,Yes,Fully Ready,true,true,No,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
+SK490,E10490,Databricks,PySpark,Data & Analytics,Databricks | PySpark,Yes,No,Declared Not Verified,true,false,Yes,2026-06-09T17:53:07.007Z,2026-06-10T12:08:46.518Z
